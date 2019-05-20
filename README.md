@@ -18,3 +18,20 @@
 
 ## What are blocks?
 *A ruby block is a way of grouping statements, and may apper only in the source adjacent to a method call; the block is written starting on the same line as the method call's last parameter.*
+
+## What is an array?
+*Ruby arrays are ordered, integer-indexed collections of any object. Each element in an array is associated with and referred to by an index.*
+
+## What is an iterator?
+*Ruby iterator is a concept used in object-oriented language. Iteration means doing one thing many times like a loop. The loop method is the simplest iterator. They return all the elements from a collection, one after the other.*
+
+## What are hashes?
+*Ruby hash is a collection of key-value pairs like this:"employee"=>"salary". It is similar to an array, except that indexinSg is done via arbitrary keys of any object type, not an integer index.*
+
+## What is a library?
+*As most programming languages, Ruby leverages a wide set of third-party libraries. Nearly all these libraries are released in the form of a gem, a packaged library or application that can be installed with a tool called RubyGems.*
+
+## What is a gem?
+*RubyGems is a package manager for the Ruby programming language that provides a standard format for distributing Ruby programs and libraries (in a self-contained format called a "gem"), a tool designed to easily manage the installation of gems, and a server for distributing them.*
+
+ 
